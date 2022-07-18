@@ -1,4 +1,4 @@
-### Hey there! I am [Aniket Kumar](https://aniket-kumar.web.app), A Frontend Developer based in Mumbai.
+### Hey there! I am [Aniket Kumar](https://aniket-kumar.web.app), A Web Developer based in Mumbai.
 
 <!--
 **sparshsingh21/sparshsingh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
