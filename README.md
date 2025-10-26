@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 Want to work with me? Connect with me on:
 * [Portfolio](https://aniketkumar.info/)
 * [LinkedIn](https://www.linkedin.com/in/aniketkumar30)
-* [Instagram](https://www.instagram.com/mr.ak_301)
+* [Instagram](https://www.instagram.com/aniket__kumarrr)
 <!-- -->
