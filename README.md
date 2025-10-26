@@ -1,7 +1,6 @@
 ### Hey there! I am [Aniket Kumar](https://aniket-kumar.web.app), A Web Developer based in Mumbai.
 
 <!--
-**sparshsingh21/sparshsingh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,6 +17,7 @@ Here are some ideas to get you started:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-301&layout=compact)
 
 Want to work with me? Connect with me on:
+* [Portfoli](https://aniketkumar.info/)
 * [LinkedIn](https://www.linkedin.com/in/aniketkumar30)
 * [Instagram](https://www.instagram.com/mr.ak_301)
-<!-- * [Whatsapp](https://api.whatsapp.com/send?phone=919082213431) -->
+<!-- -->
