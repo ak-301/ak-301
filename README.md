@@ -15,7 +15,7 @@
 
 ---
 
-🔭 Working on data science & ML projects  
+🔭 Working on data science, AI & ML projects  
 🌱 Learning advanced ML, cloud & big data  
 👯 Open to open-source & analytics collaborations  
 💬 Ask me about Python, SQL, ML, AWS, Tableau  
