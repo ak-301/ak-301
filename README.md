@@ -20,6 +20,6 @@
 
 
 Want to work with me? Connect with me on:
-* 🌐 [Portfolio](https://aniketkumar.info/)
+* 🌐 [Portfolio](https://aniketkumar.codes/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/aniketkumar30)
 * 📸 [Instagram](https://www.instagram.com/aniket__kumarrr)
