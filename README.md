@@ -12,7 +12,7 @@
 ### 👋 Hi, I’m Aniket Kumar
 
 🎓 **MS in Data Science @ Stony Brook University**  
-💻 **Data Scientist | Data Engineer | ML Enthusiast**  
+💻 **Data Scientist | Data Engineer | AI & ML Enthusiast**  
 📊 Passionate about solving real-world problems with data  
 
 ---
