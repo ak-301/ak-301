@@ -12,17 +12,13 @@
 🎓 **MS in Data Science @ Stony Brook University**  
 💻 **Data Scientist | Data Engineer | AI & ML Enthusiast**  
 📊 Passionate about solving real-world problems with data  
-
 ---
-
 🔭 Working on data science & ML projects  
 🌱 Learning advanced ML, cloud & big data  
 👯 Open to open-source & analytics collaborations  
 💬 Ask me about Python, SQL, ML, AWS, Tableau  
 ⚡ Chess player & Twitch streamer  
-
 ---
-
 ### 🤝 Connect with Me
 🌐 [Portfolio](https://aniketkumar.info/)  
 💼 [LinkedIn](https://www.linkedin.com/in/aniketkumar30)  
