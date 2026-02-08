@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Aniket%20Kumar&fontSize=40)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=ANIKET%20KUMAR&fontSize=40)
 
 
 ## 👋 Hi, I’m Aniket Kumar
