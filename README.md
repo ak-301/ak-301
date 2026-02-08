@@ -12,6 +12,7 @@
 - 📫 How to reach me: LinkedIn / Portfolio
 - ⚡ Fun fact: Chess player & Twitch streamer
 
+![GitHub Metrics](https://raw.githubusercontent.com/ak-301/ak-301/main/github-metrics.svg)
 
 ![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ak-301&show_icons=true&count_private=true&theme=highcontrast)
 
