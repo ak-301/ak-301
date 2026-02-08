@@ -13,8 +13,10 @@
 - ⚡ Fun fact: Chess player & Twitch streamer
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ak-301&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-301&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ak-301&show_icons=true&count_private=true&theme=highcontrast&cache_seconds=1800&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-301&layout=compact&cache_seconds=1800&v=1)
+
 
 Want to work with me? Connect with me on:
 * 🌐 [Portfolio](https://aniketkumar.info/)
