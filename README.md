@@ -24,10 +24,9 @@
 ---
 
 ### 🤝 Connect with Me
-🌐 [Portfolio](https://aniketkumar.info/)  
-💼 [LinkedIn](https://www.linkedin.com/in/aniketkumar30)  
+🌐 [Portfolio](https://aniketkumar.info/)  | 💼 [LinkedIn](https://www.linkedin.com/in/aniketkumar30) | 
 📸 [Instagram](https://www.instagram.com/aniket__kumarrr)
-
+ 
 </td>
 
 <td width="50%" valign="top">
