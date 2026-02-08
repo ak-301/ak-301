@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=170&section=header&text=ANIKET%20KUMAR&fontSize=38&fontAlignY=35&desc=Data%20Science%20%7C%20AI&ML%20%7C%20Engineering&descAlignY=55"
+    src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=170&section=header&text=ANIKET%20KUMAR&fontSize=38&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20ML&descAlignY=55"
     width="100%"
   />
 </p>
