@@ -1,3 +1,6 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=Aniket%20Kumar&fontSize=40)
+
+
 ## 👋 Hi, I’m Aniket Kumar
 
 🎓 MS in Data Science @ Stony Brook University  
