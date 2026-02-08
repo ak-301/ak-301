@@ -1,15 +1,5 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=ANIKET%20KUMAR&fontSize=40&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20ML%20%7C%20Engineering&descAlignY=60"
-    width="100%"
-  />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+  <img src="./banner.png" width="100%" />
 </p>
 
 
