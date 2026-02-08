@@ -2,34 +2,47 @@
 <tr>
 <td width="50%" valign="top">
 
-### 👋 Hi, I’m Aniket Kumar
+## ❤️ Hi, I’m <span style="color:red">Aniket Kumar</span>
 
 🎓 **MS in Data Science @ Stony Brook University**  
-💻 **Data Scientist | Data Engineer | ML Enthusiast**  
-📊 Passionate about solving real-world problems with data  
+💻 Data Scientist | Data Engineer | ML Enthusiast  
+📊 Turning data into impact  
 
 ---
 
-🔭 Working on data science & ML projects  
-🌱 Learning advanced ML, cloud & big data  
-👯 Open to open-source & analytics collaborations  
-💬 Ask me about Python, SQL, ML, AWS, Tableau  
-⚡ Chess player & Twitch streamer  
+### ❤️ What I Do
+🔴 Build ML & analytics systems  
+🔴 Design data pipelines  
+🔴 Solve real-world problems  
 
 ---
 
-### 🤝 Connect with Me
-🌐 [Portfolio](https://aniketkumar.info/)  
-💼 [LinkedIn](https://www.linkedin.com/in/aniketkumar30)  
-📸 [Instagram](https://www.instagram.com/aniket__kumarrr)
+### 💚 Growing In
+🟢 Advanced ML  
+🟢 Cloud & Big Data  
+🟢 Scalable Systems  
+
+---
+
+### 💙 Connect
+🔵 [Portfolio](https://aniketkumar.info/)  
+🔵 [LinkedIn](https://www.linkedin.com/in/aniketkumar30)  
+🔵 [Instagram](https://www.instagram.com/aniket__kumarrr)
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 GitHub Overview
+## 💙 GitHub Activity
 
 ![GitHub Metrics](https://raw.githubusercontent.com/ak-301/ak-301/main/github-metrics.svg)
+
+---
+
+### 💚 Status
+🟢 Open to Internships  
+🟢 Open to Collaborations  
+🟢 Open to Research  
 
 </td>
 </tr>
