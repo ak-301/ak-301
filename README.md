@@ -1,4 +1,10 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&text=ANIKET%20KUMAR&fontSize=40)
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=170&section=header&text=ANIKET%20KUMAR&fontSize=38&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20%7C%20Engineering&descAlignY=55"
+    width="100%"
+  />
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
