@@ -1,23 +1,22 @@
-### Hey there! I am [Aniket Kumar](https://aniket-kumar.web.app), A Web Developer based in Mumbai.
+### Hey there! I am [Aniket Kumar](https://aniket-kumar.web.app)
+
+🎓 MS in Data Science @ Stony Brook University  
+💻 Aspiring Data Scientist | Data Engineer | ML Enthusiast  
+📊 Passionate about solving real-world problems with data  
 
 <!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on data science & ML projects
+- 🌱 I’m currently learning advanced ML, cloud, and big data tools
+- 👯 I’m looking to collaborate on open-source & analytics projects
+- 💬 Ask me about Python, SQL, ML, AWS, or data visualization
+- 📫 How to reach me: LinkedIn / Portfolio
+- ⚡ Fun fact: Chess player & Twitch streamer
 -->
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ak-301&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ak-301&layout=compact)
 
 Want to work with me? Connect with me on:
-* [Portfolio](https://aniketkumar.info/)
-* [LinkedIn](https://www.linkedin.com/in/aniketkumar30)
-* [Instagram](https://www.instagram.com/aniket__kumarrr)
-<!-- -->
+* 🌐 [Portfolio](https://aniketkumar.info/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/aniketkumar30)
+* 📸 [Instagram](https://www.instagram.com/aniket__kumarrr)
