@@ -14,11 +14,6 @@
 
 ![GitHub Metrics](https://raw.githubusercontent.com/ak-301/ak-301/main/github-metrics.svg)
 
-![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ak-301&show_icons=true&count_private=true&theme=highcontrast)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ak-301&layout=compact)
-
-
 
 Want to work with me? Connect with me on:
 * 🌐 [Portfolio](https://aniketkumar.codes/)
