@@ -13,13 +13,6 @@
 💻 **Data Scientist | Data Engineer | AI & ML Enthusiast**  
 📊 Passionate about solving real-world problems with data  
 
-### 🧠 Tech Stack
-
-**Languages:** Python, SQL  
-**ML/DL:** Scikit-learn, TensorFlow, PyTorch  
-**Data:** Pandas, NumPy, Matplotlib  
-**Cloud:** AWS, Linux  
-**Tools:** Git, Tableau, Docker
 
 ---
 
