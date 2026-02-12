@@ -24,5 +24,5 @@ jobs:
           plugin_languages_details: percentage
           plugin_repositories: yes
           plugin_repositories_pinned: 4
-          plugin_achievements: yes
+          plugin_achievements: no
 
