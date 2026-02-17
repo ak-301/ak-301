@@ -5,6 +5,11 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,4 +31,5 @@ jobs:
           plugin_repositories: yes
           plugin_repositories_pinned: 4
           plugin_achievements: no
+
 
